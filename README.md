@@ -1,9 +1,9 @@
 # Valentine Website ❤️
 
-## 🌐 Live Website Link  
-👉 Click Here: https://adarshshukla0627-maker.github.io/valentine-website-..771/
+## 🌐 Live Website Link
+👉 https://adarshshukla0627-maker.github.io/valentine-website-..771/
 
-A romantic Valentine special website made with love 💕
+A Valentine special romantic website made with love 💕
 
 
 
